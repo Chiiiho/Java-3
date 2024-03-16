@@ -16,7 +16,7 @@ public class MapMain {
         if (city != null) {
             System.out.println(city);
         } else {
-            System.out.println("I could not find any city.");
+            System.out.println("都市が見つかりませんでした。");
         }
     }
 }
